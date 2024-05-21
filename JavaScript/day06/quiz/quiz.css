@@ -1,0 +1,65 @@
+.box {
+  border: 1px solid black;
+  width: 20px;
+  height: 20px;
+}
+
+.red {
+  background-color: red;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.size1 {
+  width: 30px;
+  height: 30px;
+}
+
+.size2 {
+  width: 60px;
+  height: 60px;
+}
+
+.size3 {
+  width: 90px;
+  height: 90px;
+}
+
+.size4 {
+  width: 120px;
+  height: 120px;
+}
+
+.size5 {
+  width: 150px;
+  height: 150px;
+}
+
+.borer1 {
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.borer2 {
+  border: 2px solid black;
+  border-radius: 15px;
+}
+
+.borer3 {
+  border: 2px solid black;
+  border-radius: 30px;
+}
