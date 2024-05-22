@@ -1,0 +1,43 @@
+body {
+  width: 100vw;
+  height: 50vw;
+}
+
+.container {
+  max-width: 700px;
+  margin: 0 auto;
+
+  align-items: center;
+}
+.title {
+  font-weight: 900;
+}
+
+.title > button {
+  width: 20px;
+  height: 20px;
+}
+
+.verify > button {
+  width: 20px;
+  height: 20px;
+}
+
+.verify > span:hover {
+  opacity: 80%;
+}
+
+.choice > button {
+  width: 20px;
+  height: 20px;
+}
+
+.next {
+  width: 80%;
+  height: 60px;
+  text-align: center;
+  background-color: black;
+  color: white;
+  opacity: 30%;
+  border-radius: 30px;
+}
