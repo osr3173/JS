@@ -1,0 +1,54 @@
+.container {
+  height: 100vh;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.left > img {
+  width: 60px;
+  height: 20px;
+  object-fit: contain;
+}
+
+header > img {
+  width: 100px;
+  height: 100%;
+}
+
+button {
+  border: 1px solid #dbdbdb;
+  border-radius: 10px;
+
+  font-size: 12px;
+}
+
+.cat {
+  font-size: 10px;
+}
+
+.find {
+  font-size: 12px;
+  margin-top: 10px;
+  padding-bottom: 20px;
+
+  text-align: center;
+  border-bottom: 1px solid #dbdbdb;
+}
+
+.title {
+  display: flex;
+}
+
+.title > span {
+  vertical-align: middle;
+}
+
+.orange {
+  color: orange;
+}
