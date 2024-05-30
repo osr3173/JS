@@ -1,0 +1,14 @@
+.body {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.card {
+  display: grid;
+  grid-template-columns: repeat(2, 2fr);
+}
+
+.cardElement {
+  display: flex;
+  height: 30vh;
+}
