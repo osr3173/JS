@@ -1,0 +1,90 @@
+.container {
+  height: 100vh;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.left > img {
+  width: 60px;
+  height: 20px;
+  object-fit: contain;
+}
+
+header > img {
+  width: 100px;
+  height: 100%;
+}
+
+button {
+  border: 1px solid #dbdbdb;
+  border-radius: 15px;
+
+  font-size: 14px;
+  padding: 5px;
+}
+
+.cat {
+  font-size: 14px;
+}
+
+.find {
+  font-size: 15px;
+  font-weight: 900;
+  margin-top: 10px;
+  padding-bottom: 20px;
+
+  text-align: center;
+  border-bottom: 1px solid #dbdbdb;
+}
+
+.title {
+  display: flex;
+  margin-left: 15px;
+}
+
+.title > span {
+  vertical-align: middle;
+}
+
+.orange {
+  color: rgb(255, 84, 15);
+  padding-left: 5px;
+}
+
+.content {
+  height: 650px;
+}
+
+/* event 본문 */
+
+.imgBox {
+  width: 100px;
+  height: 100px;
+}
+
+.imgBox > img {
+  width: 100%;
+  height: 100%;
+  border-radius: 5px;
+}
+
+.card {
+  width: 400px;
+  display: flex;
+  margin: 30px;
+}
+
+.info {
+  padding-left: 10px;
+}
+
+.more {
+  text-align: center;
+  font-weight: 700;
+}
