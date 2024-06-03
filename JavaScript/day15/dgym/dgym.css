@@ -1,0 +1,79 @@
+.content {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.top {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+}
+
+.filter {
+  border-radius: 20px;
+  border: 1px solid #dbdbdb;
+  padding: 6px;
+}
+
+.day1 {
+  border-radius: 20px;
+  border: 1px solid #dbdbdb;
+  padding: 6px;
+}
+.fastDiscount {
+  border-radius: 20px;
+  border: 1px solid #dbdbdb;
+  padding: 6px;
+}
+.MemberPrice {
+  border-radius: 20px;
+  border: 1px solid #dbdbdb;
+  padding: 6px;
+}
+
+.review {
+  display: flex;
+  font-size: 12px;
+  gap: 6px;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+}
+
+.type {
+  color: gray;
+  font-size: 12px;
+  font-weight: 900;
+  padding: 10px;
+  gap: 20px;
+}
+.name {
+  font-size: 18px;
+  font-weight: 900;
+}
+.score {
+  color: rgb(255, 197, 0);
+  font-weight: 900;
+}
+
+.count {
+  color: gray;
+}
+
+.price {
+  padding-top: 10px;
+  font-size: 20px;
+}
+
+.service {
+  gap: 15px;
+  font-size: 12px;
+  display: flex;
+}
